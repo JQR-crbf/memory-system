@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local env
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Logs and runtime artifacts
+*.log
+data/system/*.jsonl
+!data/system/.gitkeep
+
+# Runtime databases
+data/qdrant/*
+!data/qdrant/.gitkeep
+data/neo4j/*
+!data/neo4j/.gitkeep
+
+# Temporary exports
+*.tmp
+*.bak

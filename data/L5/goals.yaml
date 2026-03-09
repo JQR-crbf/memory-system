@@ -1,0 +1,13 @@
+goals:
+- id: goal-demo-001
+  title: 构建可复用的个人记忆系统
+  category: learning
+  priority: high
+  deadline: '2099-12-31'
+  status: in_progress
+  progress: 0
+  sub_goals: []
+  related_skills:
+  - Memory System
+  - RAG
+  notes: 这是公开示例目标，无真实examples

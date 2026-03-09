@@ -1,0 +1,6 @@
+{
+  "learning_enabled": true,
+  "vector_enabled": true,
+  "llm_fallback_enabled": true,
+  "vector_threshold": 0.8
+}

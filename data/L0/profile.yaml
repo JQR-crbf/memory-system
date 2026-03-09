@@ -1,0 +1,22 @@
+identity: '{"name": "匿名用户", "age": 0, "location": "未设置", "languages": ["中文"]}'
+career: '{"current_role": "未设置", "company": "未设置", "years_of_experience": 0, "tech_stack": {"primary": [], "secondary": [], "learning": []}, "domains": []}'
+personality:
+  communication_style: 简洁
+  values: []
+  pet_peeves: []
+  strengths: []
+  weaknesses: []
+writing_style:
+  tone: 专业
+  format_preference: 结构化
+  length: 精简
+  language: 中文
+ai_instructions:
+  always:
+  - 用中文回答
+  - 给出可执行建议
+  never:
+  - 泄露敏感信息
+  - 编造事实
+  context_rules:
+  - 优先使用当前上下文
